@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; 
+}
+.container{
+	display: flex;
+	align-item:center;
+	justify-content:space-between;
+	padding: 30px 9%;
+}
+.container .box img{
+	width: 200px;
+	height: 150px;
+}

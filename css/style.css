@@ -1,0 +1,30 @@
+.first {
+	margin-top: 100px;
+
+}
+
+.second {
+	background-image: url(../fff.jpg);
+	height: 100vh;
+}
+.third{
+	padding-top: 150px;
+}
+.oss{
+	    font-family: "Cormorant", serif;
+}
+/*body{overflow-x: hidden;}*/
+/*.resp{
+	padding: 0 7%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}*/
+
+/*media queries*/
+/*@media(max-width: 600px){
+	.resp{
+		padding: 0 3%;
+	}
+}*/
